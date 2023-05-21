@@ -1,0 +1,132 @@
+[
+  {
+    "storeCode": "r6bxxd",
+    "manager": {
+      "personCode": "qhif3t",
+      "lastName": "Buer",
+      "firstName": "Jeanelle",
+      "address": {
+        "street": "1 Reinke Lane",
+        "city": "Santa Ana",
+        "state": "CA",
+        "country": "US",
+        "zipCode": "92705"
+      },
+      "email": [
+        "jbuer2@noaa.gov"
+      ]
+    },
+    "address": {
+      "street": "519 Nova Drive",
+      "city": "Lincoln",
+      "state": "NE",
+      "country": "68510",
+      "zipCode": "US"
+    },
+    "invoices": []
+  },
+  {
+    "storeCode": "1wc5co",
+    "manager": {
+      "personCode": "qc3q82",
+      "lastName": "Philbin",
+      "firstName": "Max",
+      "address": {
+        "street": "3 Mifflin Parkway",
+        "city": "Dallas",
+        "state": "TX",
+        "country": "US",
+        "zipCode": "75342"
+      },
+      "email": [
+        "mphilbinc@creativecommons.org"
+      ]
+    },
+    "address": {
+      "street": "690 Michigan Plaza",
+      "city": "Topeka",
+      "state": "KS",
+      "country": "66699",
+      "zipCode": "US"
+    },
+    "invoices": []
+  },
+  {
+    "storeCode": "sdd9zo",
+    "manager": {
+      "personCode": "qhif3t",
+      "lastName": "Buer",
+      "firstName": "Jeanelle",
+      "address": {
+        "street": "1 Reinke Lane",
+        "city": "Santa Ana",
+        "state": "CA",
+        "country": "US",
+        "zipCode": "92705"
+      },
+      "email": [
+        "jbuer2@noaa.gov"
+      ]
+    },
+    "address": {
+      "street": "1365 Eagle Crest Avenue",
+      "city": "Lincoln",
+      "state": "NE",
+      "country": "68583",
+      "zipCode": "US"
+    },
+    "invoices": []
+  },
+  {
+    "storeCode": "fzoz0q",
+    "manager": {
+      "personCode": "qhif3t",
+      "lastName": "Buer",
+      "firstName": "Jeanelle",
+      "address": {
+        "street": "1 Reinke Lane",
+        "city": "Santa Ana",
+        "state": "CA",
+        "country": "US",
+        "zipCode": "92705"
+      },
+      "email": [
+        "jbuer2@noaa.gov"
+      ]
+    },
+    "address": {
+      "street": "31683 South Way",
+      "city": "Omaha",
+      "state": "NE",
+      "country": "68164",
+      "zipCode": "US"
+    },
+    "invoices": []
+  },
+  {
+    "storeCode": "ayj5z8",
+    "manager": {
+      "personCode": "aeoi3y",
+      "lastName": "Netti",
+      "firstName": "Ardyth",
+      "address": {
+        "street": "5 Anniversary Alley",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "zipCode": "48232"
+      },
+      "email": [
+        "anetti7@amazonaws.com"
+      ]
+    },
+    "address": {
+      "street": "81771 Vernon Court",
+      "city": "Wichita",
+      "state": "KS",
+      "country": "67230",
+      "zipCode": "US"
+    },
+    "invoices": []
+  }
+]
